@@ -1,10 +1,10 @@
 import './App.css';
-import Header from './common/header/Header';
+import MainPage from './pages/Mainpage';
 
 function App() {
   return (
     <div className='App'>
-      <Header />
+      <MainPage />
     </div>
   );
 }
